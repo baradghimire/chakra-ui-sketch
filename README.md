@@ -1,2 +1,1 @@
-# chakra-ui.sketch
-Chakra UI Sketch
+# Chakra UI Sketch
