@@ -8,9 +8,15 @@
   <h1>Chakra UI for Sketch</h1>
 </div>
 
-## Features
+## Screenshots
 
-Coming Soon.™
+### Colors
+
+<img width="500" src="images/screenshots/Colors.png" alt="colors">
+
+### Shadows
+
+<img width="500" src="images/screenshots/Shadows.png" alt="shadows">
 
 ## Maintainers
 
