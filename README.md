@@ -18,6 +18,10 @@
 
 <img width="500" src="images/screenshots/Shadows.png" alt="shadows">
 
+### Buttons
+
+<img width="500" src="images/screenshots/Buttons.png" alt="buttons">
+
 ## Maintainers
 
 Chakra UI for Sketch is designed, developed and maintained by [@barad](https://twitter.com/barad)
