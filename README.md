@@ -12,15 +12,15 @@
 
 ### Colors
 
-<img width="500" src="images/screenshots/Colors.png" alt="colors">
+<img src="images/screenshots/Colors.png" alt="colors">
 
 ### Shadows
 
-<img width="500" src="images/screenshots/Shadows.png" alt="shadows">
+<img src="images/screenshots/Shadows.png" alt="shadows">
 
 ### Buttons
 
-<img width="500" src="images/screenshots/Buttons.png" alt="buttons">
+<img src="images/screenshots/Buttons.png" alt="buttons">
 
 ## Maintainers
 
