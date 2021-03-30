@@ -14,6 +14,10 @@
 
 <img width="500" src="images/screenshots/Colors.png" alt="colors">
 
+### Text
+
+<img width="500" src="images/screenshots/Text.png" alt="text">
+
 ### Shadows
 
 <img width="500" src="images/screenshots/Shadows.png" alt="shadows">
