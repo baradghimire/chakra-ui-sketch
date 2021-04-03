@@ -12,19 +12,19 @@
 
 ### Colors
 
-<img width="500" src="images/screenshots/Colors.png" alt="colors">
+<img width="500" src="images/screenshots/Colors.png" alt="Colors">
 
-### Text
+### Typography
 
-<img width="500" src="images/screenshots/Text.png" alt="text">
+<img src="images/screenshots/Typography.png" alt="Typography">
 
 ### Shadows
 
-<img width="500" src="images/screenshots/Shadows.png" alt="shadows">
+<img width="500" src="images/screenshots/Shadows.png" alt="Shadows">
 
 ### Buttons
 
-<img width="500" src="images/screenshots/Buttons.png" alt="buttons">
+<img width="500" src="images/screenshots/Buttons.png" alt="Buttons">
 
 ## Maintainers
 
