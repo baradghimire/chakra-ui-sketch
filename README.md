@@ -12,10 +12,15 @@
 
 ### Colors
 
+<<<<<<< HEAD
 <img width="500" src="images/screenshots/Colors.png" alt="Colors">
+=======
+<img src="images/screenshots/Colors.png" alt="colors">
+>>>>>>> a3b0ba5bccd8c3d65e3bbb9aec3266b6c70a82f4
 
 ### Typography
 
+<<<<<<< HEAD
 <img src="images/screenshots/Typography.png" alt="Typography">
 
 ### Shadows
@@ -25,6 +30,17 @@
 ### Buttons
 
 <img width="500" src="images/screenshots/Buttons.png" alt="Buttons">
+=======
+<img src="images/screenshots/Text.png" alt="text">
+
+### Shadows
+
+<img src="images/screenshots/Shadows.png" alt="shadows">
+
+### Buttons
+
+<img src="images/screenshots/Buttons.png" alt="buttons">
+>>>>>>> a3b0ba5bccd8c3d65e3bbb9aec3266b6c70a82f4
 
 ## Maintainers
 
